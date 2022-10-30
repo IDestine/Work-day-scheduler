@@ -23,3 +23,6 @@ var workEvents = JSON.parse(localStorage.getItem)("workDay");
 if (workEvents) {
           planWorkday = workEvents;
 }
+
+/* Current Work Day */
+$("#currentDay").text(today);
