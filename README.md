@@ -42,6 +42,8 @@ An application that will run in the browser and feature dynamically updated HTML
 <br>
 ### Screenshot
 
+![Screen Shot 2022-10-31 at 3 48 07 PM (2)](https://user-images.githubusercontent.com/112515751/199104806-1b4112c8-f0b1-4861-a0e8-eb2525b86ef8.png)
+
 ![Work Day Scheduler]
 
 
