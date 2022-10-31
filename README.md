@@ -1,6 +1,5 @@
 # Work Day Scheduler
 
-![GitHub code size in bytes]
 ### Description
 Create a simple calendar application that allows a user to save events for each hour of the workday. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 <br>
@@ -37,7 +36,7 @@ SO THAT I can manage my time effectively<br>
 An application that will run in the browser and feature dynamically updated HTML and CSS powered by JQuery. Application features polished UI and is responsive, ensuring adaptation to multiple screen sizes.
 <br>
 <br>
-*Link to Work Day Scheduler* <br>
+*Link to Work Day Scheduler* <br> https://idestine.github.io/Work-day-scheduler/
 [Work Day Scheduler]
 <br>
 ### Screenshot
